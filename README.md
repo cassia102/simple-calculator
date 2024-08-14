@@ -3,7 +3,7 @@
 
 The Calculator App is a simple yet functional calculator built with React and TypeScript. It supports basic arithmetic operations, percentage calculations, and toggling between positive and negative numbers.
 
-![Calculator Screenshot](public/images/calculator-screenshot.png)
+![Calculator Screenshot](public/calculator-screenshot.png)
 
 
 ## Features
